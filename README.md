@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI with a supported topic sponsored by my EU Lithuanian Computer Society ...
 - 💞️ I’m looking to collaborate and post my findings on my MicroSoft Azure account : https://myaccount.microsoft.com/?ref=MeControl
 - 📫 How to reach me via email:gdaukantas@proton.me 
-- 
+- I apply  the github (user guide)https://packaging.python.org/en/latest/
 
 <!---
 daukantas/daukantas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
