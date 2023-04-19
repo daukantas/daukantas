@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate and post my findings on my MicroSoft Azure account : https://myaccount.microsoft.com/?ref=MeControl
 - 📫 How to reach me via email:gdaukantas@proton.me 
 - I apply  the github (user guide)https://packaging.python.org/en/latest/
-My Source forge account is a referential sketch of what AI tools I can apply from : [
-](https://microsoft.github.io/HAXPlaybook/) [
+My Source forge account is a referential sketch of what AI tools I can apply from https://microsoft.github.io/HAXPlaybook/
 
 <!---
 daukantas/daukantas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
