@@ -6,6 +6,7 @@
 - I apply  the github (user guide)https://packaging.python.org/en/latest/
 My Source forge account is a referential sketch of what AI tools I can apply from https://microsoft.github.io/HAXPlaybook/
 This tool kit is actually a "turn key" for any budget oriented entrepreneur: https://www.microsoft.com/en-us/research/publication/planning-for-natural-language-failures-with-the-ai-playbook/
+https://docs.github.com/en/pages/getting-started-with-github-pages
 <!---
 daukantas/daukantas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
