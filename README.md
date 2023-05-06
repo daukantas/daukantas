@@ -10,7 +10,8 @@ This tool kit is actually a "turn key" for any budget oriented entrepreneur: htt
 https://docs.github.com/en/pages/getting-started-with-github-pages
 https://app.circleci.com/launchpad/github/daukantas/getting-started
 My Git Hub site page will apply the step wise instructions provided :https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
-https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ff728592(v=pandp.10)
+https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ff728592(v=pandp.10) 
+https://ec.europa.eu/info/law/better-regulation/have-your-say-simplify/suggestions/S27639657_en
 <!---
 daukantas/daukantas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
