@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate and post my findings on my MicroSoft Azure account : https://myaccount.microsoft.com/?ref=MeControl
 - 📫 How to reach me via email:gdaukant@lesley.edu
 - I apply  the github (user guide)https://packaging.python.org/en/latest/
+- https://docs.github.com/en
 My Source forge account is a referential sketch of what AI tools I can apply from https://microsoft.github.io/HAXPlaybook/
 This tool kit is actually a "turn key" for any budget oriented entrepreneur: https://www.microsoft.com/en-us/research/publication/planning-for-natural-language-failures-with-the-ai-playbook/
 https://docs.github.com/en/pages/getting-started-with-github-pages
