@@ -14,6 +14,20 @@ https://docs.github.com/en/pages/getting-started-with-github-pages
 https://app.circleci.com/launchpad/github/daukantas/getting-started
 My Git Hub site page will apply the step wise instructions provided :https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 https://github.com/settings/connections/applications/78a2ba87f071c28e65bb
+Here are the links to the courses  online  (free) that earned my Certifcate
+as an Equitable Educator!
+
+
+https://connect.iste.org/network/members/profile
+
+
+https://courses.edx.org/certificates/0e7de6a4e9234349b40e84ce8b495b3d
+
+
+https://openlearninglibrary.mit.edu/courses/course-v1:MITx+0.503x+T2020/about
+Becoming a More Equitable Educator: Mindsets and Practices | MIT Open Learning Library
+Every day, teachers make thousands of decisions: what content to teach, what activities to assign, who to call on, how to respond to a student question, how to react to student behavior. These day-to-day decisions can have an enormous effect on the lives of young people, for good and ill. They can open new doors or cause lasting harm; they can make students feel seen and valued, or dampen ...
+openlearninglibrary.mit.edu
 <!---
 daukantas/daukantas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
