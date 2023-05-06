@@ -15,7 +15,7 @@ https://app.circleci.com/launchpad/github/daukantas/getting-started
 My Git Hub site page will apply the step wise instructions provided :https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 https://github.com/settings/connections/applications/78a2ba87f071c28e65bb
 Here are the links to the courses  online  (free) that earned my Certifcate
-as an Equitable Educator!
+as an Equitable Educator!  https://www.youtube.com/watch?v=TLG6AEE1hac
 
 
 https://connect.iste.org/network/members/profile
