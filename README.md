@@ -3,7 +3,7 @@
 - https://ec.europa.eu/info/law/better-regulation/have-your-say-simplify/suggestions/S27639657_en
 - 🌱 I’m currently learning AI with a supported topic sponsored by my EU Lithuanian Computer Society ...
 - 💞️ I’m looking to collaborate and post my findings on my MicroSoft Azure account : https://myaccount.microsoft.com/?ref=MeControl
-- 📫 How to reach me via email:gdaukant@lesley.edu
+- I refer  my AI apps  to a "HUman Centered" approach by applying the HAX tool kit : https://www.microsoft.com/en-us/haxtoolkit/
 - My Stack Exchange :https://superuser.com/users/723118/daukantas
 - I apply  the github (user guide)and the Microsoft Azure account registered in my name : https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ff728592(v=pandp.10) 
 -I apply the Python package  https://packaging.python.org/en/latest/
