@@ -94,7 +94,9 @@ A. The point here, is that safe,cost effective tech enabled platform can save  t
 of an AI enabled Drone can provide an Owner or Project Engineer at a particular work site location the safety risks assessed by an AI equipped Drone.
 Here, a Micro Soft Azure  (tool) au Neal McFee displays his project how to Rapidly equip a drone with AI using the Azure Percept 
 How about embedding  AI models on a drone to do roof inspection? Check out how easy it can be to rapidly prototype an artificial intelligence vision model for use on a drone, without having to write any code! Learn more about Neal's project and other drone scenarios taking advantage of Vision AI reading his blog post at https://aka.ms/iotshow/AzurePerceptDrone
-learn.microsoft.com : https://learn.microsoft.com/en-us/shows/internet-of-things-show/rapidly-equip-a-drone-with-ai-using-the-azure-percept-dk
+learn.microsoft.com :1. https://learn.microsoft.com/en-us/shows/internet-of-things-show/rapidly-equip-a-drone-with-ai-using-the-azure-percept-dk
+2. Zihao's advice for getting started with AILinks from this episode: Zihao's video channel https://space.bilibili.com/1900783Microsoft AI EDU https://github.com/microsoft/ai-eduAzure Custom Vision https://aka.ms/CodeStories-customvisionMicrosoft Learn; Get started with AI on Azure https://aka.ms/CS/LearnAIMicrosoft MVP program https://aka.ms/CodeStories/MVPAdditional resources: Azure free trial https://aka.ms/CS/AzureFreeTrialLike and subscribe to CodeStories on Channel 9 https://aka.ms/c9CodeStories
+learn.microsoft.com https://learn.microsoft.com/en-us/shows/codestories/codestories-shanghai--teaching-the-world-to-code
 
 B. CodeStories Shanghai
 In this episode of CodeStories, Christina meets with Zihao - a Microsoft Student Ambassador and MVP to learn his journey into computer science, 
