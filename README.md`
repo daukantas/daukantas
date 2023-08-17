@@ -93,8 +93,8 @@ For example:
 (Active member)The National Bio Technology Institute of Education.
 https://www.ncbi.nlm.nih.gov/myncbi/
 https://www.ncbi.nlm.nih.gov/guide/
-exemplar:
-J Child Lang
+exemplar:https://spike.apps.allenai.org/datasets/pmcPubmed/search#welcome
+J Child Lang : https://spike.apps.allenai.org/datasets/pmcPubmed/search#welcome
 . 1998 Feb;25(1):19-33. doi: 10.1017/s0305000997003292.
 
 https://cordis.europa.eu/en
